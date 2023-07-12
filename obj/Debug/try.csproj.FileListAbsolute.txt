@@ -1,0 +1,8 @@
+F:\day - 3\try\try\bin\Debug\@try.exe.config
+F:\day - 3\try\try\bin\Debug\@try.exe
+F:\day - 3\try\try\bin\Debug\@try.pdb
+F:\day - 3\try\try\obj\Debug\try.csproj.AssemblyReference.cache
+F:\day - 3\try\try\obj\Debug\try.csproj.SuggestedBindingRedirects.cache
+F:\day - 3\try\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+F:\day - 3\try\try\obj\Debug\@try.exe
+F:\day - 3\try\try\obj\Debug\@try.pdb
