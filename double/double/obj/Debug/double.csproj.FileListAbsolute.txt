@@ -1,0 +1,8 @@
+F:\day - 3\double\double\bin\Debug\@double.exe.config
+F:\day - 3\double\double\bin\Debug\@double.exe
+F:\day - 3\double\double\bin\Debug\@double.pdb
+F:\day - 3\double\double\obj\Debug\double.csproj.AssemblyReference.cache
+F:\day - 3\double\double\obj\Debug\double.csproj.SuggestedBindingRedirects.cache
+F:\day - 3\double\double\obj\Debug\double.csproj.CoreCompileInputs.cache
+F:\day - 3\double\double\obj\Debug\@double.exe
+F:\day - 3\double\double\obj\Debug\@double.pdb
